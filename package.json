@@ -10,16 +10,8 @@
     "test": "test"
   },
   "dependencies": {
-    "@cronvel/minimatch": "^3.0.2",
-    "babel-tower": "^0.20.1",
     "chokidar": "^3.4.0",
-    "doormen": "^0.11.0",
-    "exm": "github:cronvel/exm",
-    "glob": "^7.1.6",
-    "nextgen-events": "^1.3.0",
-    "seventh": "^0.7.35",
-    "terminal-kit": "^1.35.2",
-    "tree-kit": "^0.6.2"
+    "exm": "github:cronvel/exm"
   },
   "scripts": {
     "test": "tea-time -R dot -O"
