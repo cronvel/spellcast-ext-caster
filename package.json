@@ -1,6 +1,6 @@
 {
   "name": "spellcast-ext-caster",
-  "version": "0.50.2",
+  "version": "0.50.3",
   "description": "Spellcast's Caster extension.",
   "main": "lib/extension.js",
   "engines": {
