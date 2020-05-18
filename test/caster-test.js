@@ -1,7 +1,7 @@
 /*
-	JsPak
+	Spellcast's Caster Extension
 
-	Copyright (c) 2020 Cédric Ronvel
+	Copyright (c) 2014 - 2020 Cédric Ronvel
 
 	The MIT License (MIT)
 

@@ -1,6 +1,6 @@
 {
   "name": "spellcast-ext-caster",
-  "version": "0.50.4",
+  "version": "0.50.5",
   "description": "Spellcast's Caster extension.",
   "main": "lib/extension.js",
   "engines": {
@@ -21,10 +21,10 @@
     "url": "https://github.com/cronvel/spellcast-ext-caster.git"
   },
   "keywords": [
+    "spellcast",
     "make",
     "makefile",
     "spell",
-    "spellcast",
     "cast",
     "spellbook",
     "magic",
