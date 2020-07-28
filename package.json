@@ -1,6 +1,6 @@
 {
   "name": "spellcast-ext-caster",
-  "version": "0.50.7",
+  "version": "0.50.8",
   "description": "Spellcast's Caster extension.",
   "main": "lib/extension.js",
   "engines": {
@@ -10,8 +10,8 @@
     "test": "test"
   },
   "dependencies": {
-    "chokidar": "^3.4.0",
-    "exm": "github:cronvel/exm"
+    "chokidar": "^3.4.1",
+    "exm": "^0.2.1"
   },
   "scripts": {
     "test": "tea-time -R dot -O"
